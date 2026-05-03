@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Yash Tomar
-- 👀 I’m interested in DSA and MERN
-- 🌱 I’m currently learning MERN 
-- 💞️ I’m looking to collaborate on MERN projects
+- 👀 I’m interested in AI Full stack development 
+- 💞️ I’m looking to collaborate on AI Full stack projects
 - 📫 How to reach me yashtomar.yt8@gmail.com
-- 😄 I love Tech alot!!!!!
 - ⚡ Fun fact: I Love Reading Tech Related stuff
 
 <!---
